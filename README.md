@@ -1,4 +1,4 @@
-# cMLr3asK
+# Beer Counter App
 
 Quick start:
 
